@@ -51,7 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" alt="socketio logo"/>
 </div>
-
 ### 🛠️ Tools & DevOps
 <div style="background-color: white; padding: 20px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
