@@ -92,6 +92,6 @@
 <br/>
 <br/>
 <p align="center">
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />-->
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=200"/> -->
 </p>
