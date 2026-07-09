@@ -76,9 +76,9 @@
 <br/>
 <br/>
 <br/>
-<p align="center">
+<!-- <p align="center">
  <img src="https://streak-stats.demolab.com?user=kenaydev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</p>
+</p> -->
 <br/>
 <br/>
 <br/>
