@@ -1,10 +1,16 @@
-<div align="center">
+<table>
+  <tr>
+    <td valign="center">
+      <h1>Hello hello;<br>I'm Kenay,</h1>
+      <h3><code>web developer and fan of logic</code> ✨</h3>
+    </td>
+    <td align="right" valign="center">
+      <img src="avatar.jpeg" alt="Avatar de Kenay" width="320">
+    </td>
+  </tr>
+</table>
 
-# Hello hello; I'm Kenay,
-### `web developer and fan of logic` ✨
-
-</div>
-
+---
 ---
 
 ### 🚀 Languages & Frameworks
