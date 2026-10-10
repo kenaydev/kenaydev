@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="center">
-      <h1>Hello hello;<br>I'm Kenay,</h1>
+      <h1>Hi!;<br>I'm Kenay,</h1>
       <h3><code>web developer and fan of logic</code> ✨</h3>
     </td>
     <!-- <td align="right" valign="center">
