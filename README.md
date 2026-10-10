@@ -15,7 +15,7 @@
 <div align="center">
   
 ### 🚀 Languages & Frameworks
-<div style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; background-color:"white";>
+<div style="background-color: #222222; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
