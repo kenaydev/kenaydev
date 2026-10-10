@@ -1,65 +1,55 @@
-<div align="center">   
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Kenay%2C+web+developer+and+fan+of+logic+%E2%9C%A8" width="70%" />
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-</div>
- <br/>
- <br/>
-  <br/>
-   <br/>
-    <br/>
- <br/>
-  <br/>
-   <br/>
-<br/>
-<br/>
 <div align="center">
 
-### 🚀 Languages & Frameworks
-
-<table>
-  <tr>
-    <td bgcolor="#161b22" align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,py,php,react,nextjs,vue,angular,laravel" />
-    </td>
-  </tr>
-</table>
-
-### ⚙️ Backend & Databases
-
-<table>
-  <tr>
-    <td bgcolor="#161b22" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,sqlite,socketio" />
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tools & DevOps
-
-<table>
-  <tr>
-    <td bgcolor="#161b22" align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,docker,git,figma,vscode,npm,jenkins" />
-    </td>
-  </tr>
-</table>
+# Hello hello; I'm Kenay,
+### `web developer and fan of logic` ✨
 
 </div>
-<!-- <p align="center">
- <img src="https://streak-stats.demolab.com?user=kenaydev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</p> -->
-<br/>
-<br/>
-<br/>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenaydev/kenaydev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenaydev/kenaydev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenaydev/kenaydev/output/pacman-contribution-graph.svg">
-</picture> -->
-<br/>
-<br/>
-<br/>
-<p align="center">
-<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />-->
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=200"/> -->
-</p>
+
+---
+
+### 🚀 Languages & Frameworks
+*Build interfaces, create experiences.*
+
+| Badge | Badge | Badge | Badge | Badge | Badge | Badge | Badge | Badge |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
+| TypeScript | JavaScript | Python | PHP | React | Next.js | Vue | Angular | Laravel |
+
+---
+
+### 🗄️ Backend & Databases
+*APIs, data and scalable solutions.*
+
+| Badge | Badge | Badge | Badge | Badge | Badge | Badge | Badge |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
+| Node.js | Express | MongoDB | MySQL | PostgreSQL | Redis | SQLite | Socket.IO |
+
+---
+
+### 🛠️ Tools & DevOps
+*Automate, deploy, repeat.*
+
+| Badge | Badge | Badge | Badge | Badge | Badge | Badge | Badge |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| Tailwind | Bootstrap | Docker | Git | Figma | VS Code | NPM | Jenkins |
+
+---
+
+<br>
+
+| 💻 Clean Code | 💡 Problem Solver | 📈 Always Learning | ❤️ Open to Collaborate |
+| :--- | :--- | :--- | :--- |
+| Better Together | Think · Build · Improve | New Tech · Bigger Goals | Let's Build Something Great |
+
+<br>
+
+<div align="center">
+
+`GOOD CODE` &nbsp;•&nbsp; `GOOD VIBES` &nbsp;•&nbsp; `BIG DREAMS`
+
+</div>
+```[cite: 1]
+
+*(Nota: Si deseas agregar la ilustración superior del banner, puedes subir la imagen a tu repositorio de GitHub e insertarla al inicio con la etiqueta `<p align="center"><img src="ruta-de-tu-imagen.png" width="100%"></p>`)*[cite: 1]
