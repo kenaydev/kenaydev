@@ -50,6 +50,3 @@
 `GOOD CODE` &nbsp;•&nbsp; `GOOD VIBES` &nbsp;•&nbsp; `BIG DREAMS`
 
 </div>
-```[cite: 1]
-
-*(Nota: Si deseas agregar la ilustración superior del banner, puedes subir la imagen a tu repositorio de GitHub e insertarla al inicio con la etiqueta `<p align="center"><img src="ruta-de-tu-imagen.png" width="100%"></p>`)*[cite: 1]
